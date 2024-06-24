@@ -1,7 +1,7 @@
 # Start Here
 Note: we do not endore everything the following resources say! Be careful when consuming new content! 
 
-If you want to add a resource that is not already listed, create a PR.
+If you want to add a resource that is not already listed, create a pull request.
 
 ## Bitcoin Resources
 - [Bitcoin-Resources](https://bitcoin-resources.com/articles/): A curated collection of articles, books, podcasts, podcast episodes, and more!
