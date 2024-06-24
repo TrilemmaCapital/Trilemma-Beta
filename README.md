@@ -7,4 +7,6 @@ For more information about the tournament, please see the [tournament website](h
 If you know nothing about Bitcoin or time series forecasting (or both), [start here](https://github.com/TrilemmaCapital/Trilemma-Beta/blob/main/start-here.md).
 
 ## Repo Structure
-- **tutorials**: Python JupyterLab notebooks that cover technical topics related to the tournament 
+- **tutorials**: Python JupyterLab notebooks that cover technical topics related to the tournament
+
+Note: This repo will continue to evolve over the next few weeks - if you have any suggestions, submit a pull request. 
