@@ -4,5 +4,7 @@ Welcome to Trilemma Beta, a free data science tournament running from July 8th t
 
 For more information about the tournament, please see the [tournament website](https://www.trilemmacapital.com/tournament). 
 
+If you know nothing about Bitcoin or time series forecasting (or both), [start here](https://github.com/TrilemmaCapital/Trilemma-Beta/blob/main/start-here.md).
+
 ## Repo Structure
 - **tutorials**: Python JupyterLab notebooks that cover technical topics related to the tournament 
